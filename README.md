@@ -1,6 +1,6 @@
 #ColorSnipe#
 
-DropTen was a game made in an hour for the [0hr game jam](http://0hgame.eu/). It's a game where simply snipe people who wear shirts of a particular color. 
+Made in an hour for the [0hr game jam](http://0hgame.eu/). It's a game where you simply snipe people who wear shirts of a particular color. 
 
 #Controls#
 **Shoot:** Click
