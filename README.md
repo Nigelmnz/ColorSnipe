@@ -5,6 +5,11 @@ DropTen was a game made in an hour for the [0hr game jam](http://0hgame.eu/). It
 #Controls#
 **Shoot:** Click
 
+#Tools#
+- Language : Javascript 
+- Library : Phaser.io 
+- Graphics : Illustrator 
+
 #Credits#
 **Created By:** [NigelMNZ](http://nigelmnz.com/)  
 
