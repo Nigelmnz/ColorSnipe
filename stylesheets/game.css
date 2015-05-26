@@ -1,0 +1,25 @@
+body{
+	background-color: #1A1A1A;
+}
+
+h1{
+	text-align: center;
+	margin: 0px;
+}
+
+a:visited{
+	color: #6E8499;
+}
+
+canvas{
+	margin: auto;
+}
+
+footer{
+	text-align: center;
+	font-family: "Lato";
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
